@@ -73,7 +73,7 @@
 - [x] Manage categories
 - [x] Log out
 
-## Folder
+## Resource
 #| Name | Description
 -| ---- | -----------
 1| [Flower Shop](https://www.figma.com/community/file/1170145556557798826) | Figma design 
