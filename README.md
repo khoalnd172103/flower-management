@@ -11,7 +11,7 @@
 * [Preview](#preview)
 * [Technology](#technology)
 * [Functional Requirements](#functional-requirements)
-* [Folder](#folder)
+* [Resource](#resource)
 
 ## Description
 * This is a web application about a flower online shopping website.
@@ -50,7 +50,7 @@
 * JDK 1.8
 * Apache Tomcat or TomEE
 
-## Functional Requirements
+## Functional Requirement
 **1. Guest:**
 - [x] Login by account
 - [x] Registrate a new account
